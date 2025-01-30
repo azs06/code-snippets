@@ -1,0 +1,1 @@
+# A repository containing all of useful code snippets and examples that I have collected over time.
